@@ -1,0 +1,13 @@
+/* Ramzey Ghanaim
+ * CMPS-12B/M
+ * Assignment 2
+ *****************
+ * FILES:
+ * README.txt -This file
+ * Makefile - Allows automation of building the java programs
+ *        -To build this program type: make BusinessSearch
+ *        -Run program by typing: BusinessSearch
+ * BusinessSearch.java - Java program
+ * 
+ *
+*/
