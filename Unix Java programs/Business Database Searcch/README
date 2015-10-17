@@ -6,7 +6,9 @@
  * README.txt -This file
  * Makefile - Allows automation of building the java programs
  *        -To build this program type: make BusinessSearch
- *        -Run program by typing: BusinessSearch
+ *        -Run program by typing: BusinessSearch BusinessDataBasename.extention
+ * IMPORTANT: You need to have a data base in the specific format of Business.txt in
+ * order to run the program
  * BusinessSearch.java - Java program
  * 
  *
