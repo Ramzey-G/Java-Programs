@@ -1,0 +1,17 @@
+/* NAME
+ * CMPS-12B/M
+ * Lab 5
+ *****************
+ * FILES:
+ * README -This file
+ * Makefile - Allows automation of building the program
+ * auxlib.java- Auxiliary functions for error reporting and error codes
+ * dllist.java - inplementeation for dllist class
+ * dllistTest.java - Unit tests for dllist
+ * edfile.java- main application
+ * 
+ *    
+ * 
+ * 
+ *
+*/
