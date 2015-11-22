@@ -1,8 +1,0 @@
-* 8549e38 Edited infinite loop to include asking user for name
-* 7829b22 Edited the Makefile for this project
-* 04d9b2b Added people.txt, so greetings.java can run through this database
-* 216bd61 modified provided code to say hello to everyone listed in a database text file
-* 74474ad Added and changed provided greet.java code to run infinitely
-* 605a1ab Initial blank versions of java source files
-* f109682 Add variables to makefile following lab1
-* 0cdf464 Initial commit of a blank makefile
