@@ -1,0 +1,14 @@
+/* NAME
+ * CMPS-12B/M
+ * Assignment 4
+ *****************
+ * FILES:
+ * README -This file
+ * Makefile - Allows automation of building the java programs
+ * Calc.java - Java program for a calculator
+ * CalcTest.java - JUnit tester program that tests methods in Calc.java
+ * junit -4.12.jar - JUnit library. Depends o Hamcrest
+ * hamcrest-core-1.3.jar - Comparision Library
+ * 
+ *
+*/
