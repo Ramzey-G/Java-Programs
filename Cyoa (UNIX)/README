@@ -1,0 +1,22 @@
+/* NAME
+ * CMPS-12B/M
+ * Lab 10
+ *****************
+ * FILES:
+ * README -This file
+ * Makefile - Allows automation of building the Java  program
+ * Cyoa.java - Java  program
+ * demo.adventure - text file with appropriate instructions for the game
+ * 
+ * NOTES: Build program by typing: "make"
+ *        Run program by typing: "make test"
+ *        Remove extra class files by typing: "make clean"
+ * 
+ *IN PROGRAM:      
+ *        z is the undo button 
+ *        y is the information button (in game)
+ *    
+ * 
+ * 
+ *
+*/
