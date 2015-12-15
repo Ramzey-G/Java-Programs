@@ -1,0 +1,99 @@
+r hospitalroom
+d Your name is Rick Grimes. You are deputy Sheriff in King County, Georgia.
+d Your best friend is Shane. He took you to the hospital after you got shot while on duty.
+d You have woken from a coma in a hospital bed. No one is around. You are in hospital clothes.
+o Stay in the room until you are rested
+t hospitalroom
+o Get out and try to tell a doctor you are awake
+t hospital
+
+r hospital
+d You come exploring the hospital. The hospital is nearly destroyed. Blood and bullets are 
+d all over the walls. One door has words written in blood. 
+d It says, "Don't open Dead inside." 
+o Go home and find your family
+t home
+o Explore more
+t hospitaloutside
+
+r hospitaloutside
+d You see hundreds of bodies outside. Half the hospital building is destroyed.
+d You see the extent of the damage better from outside. No one is around.
+o Go home and find your family
+t home
+
+r home
+d You arrive at your home. No one is here. The front door is wide open. Your wife, Lori, and son, Carl,
+d are both absent. The rooms are a messs. Pictures and clothes are missing. You go to sit
+d on the porch outside. You see a person who doesen't seem fully awake comming towards you.
+d A child comes to you and hits you on the head with a shovel. His father kills the person comming
+d towards you. You wake up in their home.
+o Ask what's going on
+t explination
+
+r explination
+d The child's name is Duane. Morgan is the father. He explains how the man he killed was not alive.
+d he is one of the Walking Dead. You will refer to them as Walkers. a Zombie apacolypse has taken
+d place and there's nothing anyone can do but survive. But you need guns
+o Offer Morgan a place to clean up and get guns at the police station
+t policestation
+o Leave for the police station on your own. 
+t Morgan dies
+
+r Morgan dies
+d The gun that Morgan used to kill the Walker earlier made a very loud sound. 
+d About 20 walkers come to his home. Morgan and his son are defenceless...
+o Continue to police station
+t policestation2
+
+r policestation
+d You get the guns, take a shower and prepare to leave. You give Morgan and his son some 
+d weapons. A Walker comes. You kill it with a gun. Morgan wants to leave you.
+o Leave to find your family
+t Alanta
+o Stay with Morgan
+t stay with morgan
+
+r policestation2
+d You arrive at the police station. You take a shower and clean out the amunition closet.
+o go back to Morgan and his son
+r stay with morgan
+o Leave to find you family
+t Alanta
+
+r stay with morgan
+d You go back to Morgans home. Fortify his home to keep him and his son safe
+o Go find your family
+t Alanta
+
+r Alanta
+d You arrive in the city of Alanta. There are thousands of Walkers roaming the streets.
+d You find yourself trapped and run inside a tank. You are now trapped in a tank. And 
+d the communicator inside makes a noise. Someone is trying to help you
+o Wait
+t Alanta
+o Accept the help
+t finding a group
+o Deny help and attempt to escape on your own
+t walker death
+
+r walker death
+d You have been killed by the Walkers. Undo by pusing z or end game
+d by pressing q
+
+r finding a group
+d You accept the man's help He tells you how to esape. You follow his instructions and end up
+d with this man and his group. His name is Glen. 
+d The building is attacked by walkers and you and the group need to flees the city.
+d You chained group member, Merle, to the roof of the building. Another memmber lost 
+d the key
+o Leave Merle
+t Reunion
+o Stay for Merle
+t walker death
+
+r Reunion
+d The goup you are with just happens to be the one your son and wife are at. Your best friend
+d Shane is here too. You guys are all together.
+d Congradulations!! 
+d You win!!
