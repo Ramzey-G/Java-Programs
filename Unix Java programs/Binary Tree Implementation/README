@@ -1,0 +1,16 @@
+/* NAME
+ * CMPS-12B/M
+ * Lab 8
+ *****************
+ * FILES:
+ * README -This file
+ * Makefile - Allows automation of building the  program
+ * Queue.java - in charge of making and iterating thorugh the queue of values
+ * Tree.java - in charge of making and outputting the Binary Tree
+ * xref.java - Main application that is ran
+ * auxlib.java 
+ *    
+ * 
+ * 
+ *
+*/
