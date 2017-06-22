@@ -1,2 +1,0 @@
-Please note that all of these programs were written/ran in a UNIX enviornment thorugh a comand line interface. 
-The Makefile included with each program compiles and executes the program. See individual README's for usage.
