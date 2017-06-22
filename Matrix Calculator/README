@@ -1,0 +1,35 @@
+/* Ramzey Ghanaim
+ *****************
+ *                       PURPOSE:
+ * This program performs calculations on sparse Matricies. An N x N matrix is
+ * sparse if the number of it's non-zero entries 
+ * is small compared to the toal number (n^2) of
+ * entries. The result is fast performing matrix
+ * operations.
+ * 
+ *
+ *                       FILES:
+ *
+ * README - this file
+ *
+ * Makefile - File used for automating the build process.
+ *          - Makes executable Sparse file
+ *
+ * List.java - List ADT
+ *
+ * Sparse.java - takes in an input file and output file, creates two  matricies
+ *                from the values in the input file, computes matrix operations
+ *               and saves the output to the outputfile
+ * 
+ * Matrix.java - Matrix class that created matricies, and handles matrix operations
+ *
+ * MatrixTest.java - tester class that tests Matrix's functions
+ *
+ * ListTest.java - tester class that tests List's functions
+ * 
+ * 
+ *
+ * 
+ * 
+ *
+*/
