@@ -7,7 +7,7 @@
  */
 public class Multiplication
 {
-    public static void main()
+    public static void main(String[] args)
     {
         int[][] math = new int[10][10];
         for(int row = 1; row < math.length; row++)
